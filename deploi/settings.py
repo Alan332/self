@@ -25,7 +25,7 @@ SECRET_KEY = 'a)954*+sg!25my489&$(10fx*p*fy4sr)(-e*z=15tmxqthikj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['delpoiapp.herokuapp.com']
 
 
 # Application definition
